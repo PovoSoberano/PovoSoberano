@@ -20,7 +20,7 @@ Na Grécia Antiga, berço da democracia, não havia representatividade: a própr
 
 O Povo Soberano é um projeto que vem trazer a reflexão sobre a necessidade de haver legisladores para tomar decisões no lugar da sociedade e que tem como objetivo final solucionar o seguinte problema: como criar uma infraestrutura que garanta transparência e segurança em um cenário de democracia direta e viabilizado por meio de um sistema de informação?
 
-Trata-se, portanto, de um projeto livre e de código aberto (disponibilizado em um repositório público), permitindo, assim, auditoria e colaboração da comunidade brasileira de acadêmicos e profissionais. Além disso, a segurança está baseada no uso de tecnologias para o reconhecimento e autenticação de cada cidadão e na não-intervenção humana em processos que poderiam fraudar votações.
+Trata-se, portanto, de um projeto livre e de código aberto (disponibilizado neste repositório público), permitindo, assim, auditoria e colaboração da comunidade brasileira de acadêmicos e profissionais. Além disso, a segurança está baseada no uso de tecnologias para o reconhecimento e autenticação de cada cidadão e na não-intervenção humana em processos que poderiam fraudar votações.
 
 ### Características
 
